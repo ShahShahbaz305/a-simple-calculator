@@ -1,3 +1,3 @@
 ## Live Demo
 
-Check out the live demo https://shahshahbaz305.github.io/a-simple-calculator/
+Check out the live demo for this code https://shahshahbaz305.github.io/a-simple-calculator/
